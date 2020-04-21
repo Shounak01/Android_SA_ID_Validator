@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="hello">Hello</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+
+    <string name="clickhere_id">Check</string>
+    <string name="hint_id">Please enter the ID</string>
+    <string name="dob">Date_Of_Birth:</string>
+    <string name="gender1">Gender</string>
+    <string name="citi">Nationality</string>
+    <string name="gen">Gender:</string>
+    <string name="ant">Nationality:</string>
+    <string name="msg1">The digits are less, please check ID</string>
+    <string name="nV">Not Valid</string>
+
+
+</resources>
